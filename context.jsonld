@@ -11,6 +11,8 @@
         "humidity_4": "connectsensors:humidity_4",
         "humidity_5": "connectsensors:humidity_5",
         "humidity_6": "connectsensors:humidity_6",
-        "pressure_3": "connectsensors:pressure_3"
+        "pressure_3": "connectsensors:pressure_3",
+        "humidity": "connectsensors:humidity",
+        "pressure": "connectsensors:pressure"
     }
 }
